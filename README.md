@@ -1,4 +1,4 @@
-# My React Practice Projects
+# My React Practice Projects <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react logo" width="40" height="40"/>
 
 This repository contains a collection of small React projects I built while learning and improving my React skills.  
 Each project helped me explore different concepts — from components and props to hooks, routing, and API integration.
